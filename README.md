@@ -2,7 +2,7 @@
 Module 20 Project
 
 ## Overview of the Analysis
-The purpose of this analysis was to determine if a logistical regression model could act effectively at predicting the financial security in approving a loan. This involved taking into account the various features involved in the borrower's profile (loan size, interest rate, income, debt/income proportion, number of accounts, derogatory marks, and total debt), and the actual loan status that would be determined through taking into account the features. The loan status is detailed as 0 (healthy) or 1 (high-risk), and is meant to be taken into account in approving or denying a loan. The machine learning model used involved splitting the financial records into a training and testing datasets, and then running these through a logistical regression model.
+The purpose of this analysis was to determine if a logistical regression model could act effectively at predicting the financial security in approving a loan. This involved taking into account the various features involved in the borrower's profile (loan size, interest rate, income, debt/income proportion, number of accounts, derogatory marks, and total debt), and the actual loan status that would be determined through taking into account the features. The loan status is detailed as 0 (healthy) or 1 (high-risk), and is meant to be taken into account in approving or denying a loan. The machine learning model used involved splitting the financial records into a training and testing datasets, and then running these through a logistical regression model. The jupyter notebook conducting this analysis can be accessed here: [Credit-Risk-Analysis](https://github.com/EdGonz44/credit-risk-classification)
 
 
 ## Results
